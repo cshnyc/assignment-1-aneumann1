@@ -1,6 +1,20 @@
 h1{
-  color: pink;
+  color: #1162A2;
 }
 body{
-  background-color: #0099ff;
+  background-color: #82B1B6;
+}
+title{
+  color: white;
+}
+p{
+  color: #F35B04;
+}
+.paragraph1 {
+  color: #F30457;
+  font-family: fantasy;
+}
+.paragraph2 {
+  color:#7A339B ;
+  font-family: cursive;
 }
